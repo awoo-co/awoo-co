@@ -27,3 +27,6 @@ pattern = "**/*.rs"
     # LSP configuration for code intelligence
     [languages.rust.languageServer]
     start = ["rust-analyzer"]
+
+[nix]
+channel = "stable-21_11"
