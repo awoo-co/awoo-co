@@ -30,3 +30,7 @@ pattern = "**/*.rs"
 
 [nix]
 channel = "stable-21_11"
+
+[auth]
+pageEnabled = false
+buttonEnabled = false
