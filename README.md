@@ -4,4 +4,4 @@
 
 ```
 
-![](src/w.png)[go to the main page is](https://teslakitty.netlify.app/home.html)
+![pic](src/w.png)[go to the main page is](https://teslakitty.netlify.app/home.html)
