@@ -2,10 +2,12 @@ button {
      
       color: rgb(0, 0, 0);
      background-color:aquamarine;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     }
 
     body{
-      background-color:deepskyblue
+      background-color:deepskyblue;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     }
     
   div{
