@@ -3,4 +3,4 @@
 ![pic](src/w.png)[go to the main page is new](https://teslakitty.netlify.app/new/index.html)
 
 
-❤️
+❤️ `made useing html and css`
