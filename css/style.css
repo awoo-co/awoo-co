@@ -1,0 +1,44 @@
+body {
+  background: rgb(161, 161, 161);
+  background: linear-gradient(
+    90deg,
+    rgba(161, 161, 161, 1) 0%,
+    rgba(13, 13, 13, 1) 100%
+  );
+}
+
+#text {
+  color: white;
+  font-size: xx-large;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+}
+
+#btn {
+  background-color: blue;
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#reload-btn:hover {
+  background-color: darkblue;
+}
+
+#link{
+  background-color: purple;
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#link:hover {
+  background-color: darkmagenta;
+}
+
