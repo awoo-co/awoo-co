@@ -45,6 +45,9 @@ body {
 
 
 header{
-  background-color: blue;
-
+  background-color: red;
+  color: white;
+  font-size: xx-large;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
 }
