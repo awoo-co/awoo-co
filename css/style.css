@@ -15,7 +15,7 @@ body {
 }
 
 #btn {
-  background-color: blue;
+  background-color: rgb(255, 0, 0);
   color: white;
   font-size: 16px;
   padding: 10px 20px;
@@ -24,11 +24,11 @@ body {
   cursor: pointer;
 }
 
-#reload-btn:hover {
-  background-color: darkblue;
+#btn:hover {
+  background-color: rgb(255, 102, 0);
 }
 
-#link{
+#btn2{
   background-color: purple;
   color: white;
   font-size: 16px;
@@ -38,10 +38,26 @@ body {
   cursor: pointer;
 }
 
-#link:hover {
+#btn2:hover {
   background-color: darkmagenta;
 }
 
+
+#btn3{
+  background-color: rgb(7, 7, 7);
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+
+#btn3:hover{
+  background-color: white;
+  color: rgb(0, 0, 0);
+}
 
 
 header{
