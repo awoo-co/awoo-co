@@ -59,6 +59,22 @@ body {
   color: rgb(0, 0, 0);
 }
 
+#btn4{
+  background-color: rgb(10, 96, 16);
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+
+#btn4:hover{
+  background-color: rgb(43, 255, 0);
+  color: rgb(0, 0, 0);
+}
+
 p {
   background-color: red;
   color: white;
@@ -78,4 +94,48 @@ a{
   font-family: Arial, sans-serif;
   font-weight: bold;
 
+}
+
+
+
+#btn5 {
+  background-color: rgb(61, 155, 168);
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#btn5:hover {
+  background-color: rgb(87, 193, 208);
+}
+
+#btn6 {
+  background-color: rgb(90, 72, 128);
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#btn6:hover {
+  background-color: rgb(136, 114, 179);
+}
+
+#btn7 {
+  background-color: rgb(25, 190, 94);
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#btn7:hover {
+  background-color: rgb(83, 222, 133);
 }
