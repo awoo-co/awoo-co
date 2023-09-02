@@ -1,141 +1,47 @@
+/* Reset default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
-  background: rgb(161, 161, 161);
-  background: linear-gradient(
-    90deg,
-    rgba(161, 161, 161, 1) 0%,
-    rgba(13, 13, 13, 1) 100%
-  );
-}
-
-#text {
-  color: white;
-  font-size: xx-large;
   font-family: Arial, sans-serif;
-  font-weight: bold;
+  background: linear-gradient(90deg, #a1a1a1, #0d0d0d);
+  color: #fff;
+  text-align: center;
+  padding: 20px;
 }
 
-#btn {
-  background-color: rgb(155, 39, 39);
-  color: white;
-  font-size: 16px;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-#btn:hover {
-  background-color: rgb(195, 126, 16);
-}
-
-#btn2{
-  background-color: purple;
-  color: white;
-  font-size: 16px;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-#btn2:hover {
-  background-color: darkmagenta;
-}
-
-
-#btn3{
-  background-color: rgb(7, 7, 7);
-  color: white;
-  font-size: 16px;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-
-}
-
-#btn3:hover{
-  background-color: white;
-  color: rgb(0, 0, 0);
-}
-
-#btn4{
-  background-color: rgb(10, 96, 16);
-  color: rgb(255, 255, 255);
-  font-size: 16px;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-
-}
-
-#btn4:hover{
-  background-color: rgb(43, 255, 0);
-  color: rgb(0, 0, 0);
+header {
+  background-color: #333;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 h1 {
-  background-color: red;
-  color: white;
-  font-size: xx-large;
-  font-family: Arial, sans-serif;
+  font-size: 2rem;
   font-weight: bold;
-  border-radius: 10px; /* Adjust the value as needed for more or less roundness */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow effect */
-  padding: 10px; /* Adds some padding around the content for better spacing */
 }
 
-
-
-a{
-  color: white;
-  font-size: xx-large;
-  font-family: Arial, sans-serif;
-  font-weight: bold;
-
+p {
+  font-size: 1.2rem;
+  margin-top: 10px;
 }
 
-
-
-#btn5 {
-  background-color: rgb(61, 155, 168);
-  color: white;
-  font-size: 16px;
+.cta-button {
+  background-color: #ff6600;
+  color: #fff;
+  font-size: 1rem;
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
   cursor: pointer;
+  margin: 10px;
+  transition: background-color 0.3s ease;
 }
 
-#btn5:hover {
-  background-color: rgb(87, 193, 208);
-}
-
-#btn6 {
-  background-color: rgb(90, 72, 128);
-  color: white;
-  font-size: 16px;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-#btn6:hover {
-  background-color: rgb(136, 114, 179);
-}
-
-#btn7 {
-  background-color: rgb(25, 190, 94);
-  color: white;
-  font-size: 16px;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-#btn7:hover {
-  background-color: rgb(83, 222, 133);
+.cta-button:hover {
+  background-color: #ff9900;
 }
