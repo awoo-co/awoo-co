@@ -32,3 +32,13 @@ const btn7 = document.getElementById("btn7");
 btn7.addEventListener("click", function() {
   window.location.href = "https://new-video.netlify.app/"; 
 });
+
+const btn8 = document.getElementById("btn8"); // Assuming you have a button with ID "btn8"
+btn8.addEventListener("click", function() {
+  window.location.href = "https://teslakitty.netlify.app/cdn/talk_to_me/talk_to_me.apk"; // Replace with your desired URL
+});
+
+const btn9 = document.getElementById("btn9"); // Assuming you have a button with ID "btn9"
+btn9.addEventListener("click", function() {
+  window.location.href = "https://teslakitty.netlify.app/cdn/rocket/rocket.apk"; // Replace with your desired URL
+});
