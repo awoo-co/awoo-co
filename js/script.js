@@ -43,7 +43,7 @@ btn9.addEventListener("click", function() {
   window.location.href = "https://teslakitty.s3.amazonaws.com/rocket.apk"; // Replace with your desired URL
 });
 
-const btn10 = document.getElementById("btn10"); // Assuming you have a button with ID "btn9"
+const btn10 = document.getElementById("btn10");
 btn9.addEventListener("click", function() {
   window.location.href = "teslakitty.netlify.app/readme.md"; // Replace with your desired URL
 });
