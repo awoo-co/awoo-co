@@ -42,3 +42,8 @@ const btn9 = document.getElementById("btn9"); // Assuming you have a button with
 btn9.addEventListener("click", function() {
   window.location.href = "https://teslakitty.s3.amazonaws.com/rocket.apk"; // Replace with your desired URL
 });
+
+const btn10 = document.getElementById("btn10"); // Assuming you have a button with ID "btn9"
+btn9.addEventListener("click", function() {
+  window.location.href = "https://drive.google.com/file/d/1QROxkhBnTNDa6StuwUds6IRzKQDjtt2B/view?usp=sharing"; // Replace with your desired URL
+});
