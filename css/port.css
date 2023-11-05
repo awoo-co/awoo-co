@@ -5,53 +5,53 @@ body {
     background-color: #f7f7f7;
     margin: 0;
     padding: 0;
-}
-
-header {
+  }
+  
+  header {
     background-color: #3498db;
     color: #fff;
     text-align: center;
-    padding: 20px;
-}
-
-h1 {
+    border-radius: 50px;
+  }
+  
+  h1 {
     font-size: 36px;
-}
-
-p {
+  }
+  
+  p {
     font-size: 18px;
-}
-
-#whats-up, #skills {
+  }
+  
+  #whats-up, #skills {
     background-color: #fff;
     padding: 20px;
     margin: 20px;
     border-radius: 5px;
-}
-
-h2 {
+  }
+  
+  h2 {
     font-size: 24px;
-}
-
-ul {
+  }
+  
+  ul {
     list-style-type: none;
     padding: 0;
-}
-
-li {
+  }
+  
+  li {
     font-size: 18px;
     margin-bottom: 10px;
-}
-
-footer {
+  }
+  
+  footer {
     background-color: #3498db;
     color: #fff;
     text-align: center;
     padding: 10px;
     font-size: 14px;
-}
-
-button {
+  }
+  
+  button {
     background-color: #3498db;
     color: #fff;
     padding: 10px 20px;
@@ -60,8 +60,11 @@ button {
     font-size: 20px;
     cursor: pointer;
     transition: background-color 0.3s;
-}
-
-button:hover {
+    margin-right: 10px; /* Adjust the margin-right value as needed */
+    margin-bottom: 10px; /* Add margin-bottom to create vertical spacing */
+  }
+  
+  button:hover {
     background-color: #1e6eb6;
-}
+  }
+  
