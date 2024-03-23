@@ -35,15 +35,20 @@ btn7.addEventListener("click", function() {
 
 const btn8 = document.getElementById("btn8");
 btn8.addEventListener("click", function() {
-  window.location.href = "https://teslakitty.s3.amazonaws.com/talk_to_me.apk";
+  window.location.href = "files/talk_to_me.apk";
 });
 
 const btn9 = document.getElementById("btn9");
 btn9.addEventListener("click", function() {
-  window.location.href = "https://teslakitty.s3.amazonaws.com/rocket.apk";
+  window.location.href = "files/rocket.apk";
 });
 
 const btn10 = document.getElementById("btn10"); // Assuming you have a button with ID "btn10"
 btn10.addEventListener("click", function() {
-  window.location.href = "https://drive.google.com/file/d/1QROxkhBnTNDa6StuwUds6IRzKQDjtt2B/view?usp=sharing";
+  window.location.href = "/files/teslakitty.bin";
+});
+
+const btn11 = document.getElementById("btn11"); // Assuming you have a button with ID "btn10"
+btn10.addEventListener("click", function() {
+  window.location.href = "https://web.esphome.io/";
 });
