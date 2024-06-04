@@ -43,12 +43,3 @@ btn9.addEventListener("click", function() {
   window.location.href = "files/rocket.apk";
 });
 
-const btn10 = document.getElementById("btn10"); 
-btn10.addEventListener("click", function() {
-  window.location.href = "/files/teslakitty.bin";
-});
-
-const btn11 = document.getElementById("btn11"); 
-btn11.addEventListener("click", function() {
-  window.location.href = "https://web.esphome.io/";
-});
