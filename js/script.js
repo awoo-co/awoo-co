@@ -13,10 +13,7 @@ btn3.addEventListener("click", function() {
   window.location.href = "https://cookie2.netlify.app/";
 });
 
-const btn4 = document.getElementById("btn4");
-btn4.addEventListener("click", function() {
-  window.location.href = "https://catchat-meow.netlify.app/"; 
-});
+
 
 const btn5 = document.getElementById("btn5");
 btn5.addEventListener("click", function() {
