@@ -2,13 +2,14 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #f7f7f7;
+  background-color: #1f1f1f;
   margin: 0;
   padding: 0;
+  color:#fff;
 }
 
 header {
-  background-color: #3498db;
+  background-color: #474747;
   color: #fff;
   text-align: center;
   border-radius: 50px;
@@ -53,7 +54,7 @@ footer {
 }
 
 button {
-  background-color: #3498db;
+  background-color: #5c5c5c;
   color: #fff;
   padding: 10px 20px;
   border: none;
@@ -66,5 +67,5 @@ button {
 }
 
 button:hover {
-  background-color: #1e6eb6;
+  background-color: #adadad;
 }
