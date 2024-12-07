@@ -35,7 +35,7 @@ btn8.addEventListener("click", function() {
 
 const btn9 = document.getElementById("btn9");
 btn9.addEventListener("click", function() {
-  window.location.href = "https://teslakitty-cdn.netlify.app/rocket.apk";
+ alert('this file is now removed because of a virus from the apk')
 });
 
 const btn10 = document.getElementById("btn10");
