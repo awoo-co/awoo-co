@@ -30,12 +30,12 @@ btn7.addEventListener("click", function() {
 
 const btn8 = document.getElementById("btn8");
 btn8.addEventListener("click", function() {
-  window.location.href = "files/talk_to_me.apk";
+  window.location.href = "https://teslakitty-cdn.netlify.app/talk_to_me.apk";
 });
 
 const btn9 = document.getElementById("btn9");
 btn9.addEventListener("click", function() {
-  window.location.href = "files/rocket.apk";
+  window.location.href = "https://teslakitty-cdn.netlify.app/rocket.apk";
 });
 
 const btn10 = document.getElementById("btn10");
