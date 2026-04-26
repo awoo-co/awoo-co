@@ -1,2 +1,2 @@
 # awoo-co
-## website beta
+## website is just a placeholder for now
